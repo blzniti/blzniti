@@ -4,20 +4,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Nitipong+👋;&color=FF428E" />
 </h1>
 
- 
-<h3 align="center">A passionate Full Stack Developer from Thailand</h3>
-
-<img align="right" width="160" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" />
-<br/>
-
+<h1>About Me: 👋 </h1>
 <div align="lift">
- 
- 🏫 I'm currently studying for my bachelor's degree in Computer Science at Mahasarakham University.
- 
- 📚 I’m currently learning **Docker, Golang, Flutter**
+
+I’m a passionate Junior Full Stack Developer from Thailand, currently pursuing a bachelor's degree in Computer Science at Mahasarakham University. I am deeply committed to growing my skills and knowledge in the tech industry.
+
+
+<h2>🔧 Current Learning Focus:</h2>
+<img align="right" width="160" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" />
+
+<img width="40" align="left" src="https://skillicons.dev/icons?i=docker" alt="Docker">**Docker:** Enhancing my understanding of containerization and deployment.<br clear="left"/>
+
+<img width="40" align="left" src="https://skillicons.dev/icons?i=go" alt="Golang">**Golang:** Building expertise in backend development with Go.<br clear="left"/>
+
+<img width="40" align="left" src="https://skillicons.dev/icons?i=flutter" alt="Flutter">**Flutter:** Developing cross-platform mobile applications.<br clear="left"/>
+
  </div>
- 
- <br/><br/>
 <div align="center"> 
     <h1>💬 connect with me:</h1>
     <a href="https://www.instagram.com/blz_niti/" target="_blank" >
@@ -28,7 +30,6 @@
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
 </div>
-
  
 <h2 align="center">⭐ Languages-Frameworks-Tools-OS ⭐</h2>
 
