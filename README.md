@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Blzniti+👋;" />
 </h1>
 
-<h3 align="center">A passionate Full Stack developer from Thailand</h3>
+<h3 align="center">A passionate Full Stack Developer from Thailand</h3>
 
 <br/>
 
@@ -18,18 +18,17 @@
 <h1 align="center">💬 connect with me:<h1>
  
 <div align="center"> 
-<a href="https://www.instagram.com/blz_niti/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
- </a>
- 
+    <a href="https://www.instagram.com/blz_niti/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
 </div>
 
  <hr/>
  
 <h2 align="center">⭐ Languages-Frameworks-Tools ⭐</h2>
+
 <br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,vscode,github,figma,tailwind,git,golang,php" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,c,java,mysql,docker" /><br>
