@@ -28,16 +28,16 @@
 </div>
 
  
-<h2 align="center">⭐ Languages-Frameworks-Tools ⭐</h2>
+<h2 align="center">⭐ Languages-Frameworks-Tools-OS ⭐</h2>
 
 <br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,php,golang" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=angular,bootstrap,express,tailwind,nodejs,firebase" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=vscode,github,git,docker,figma,mysql" />
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,php,dart,golang" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=angular,bootstrap,express,tailwind,nodejs,firebase,flutter" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=vscode,clion,eclipse,github,git,docker,kali,discord,figma,mysql,postman,obsidian,photoshop" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=windows,linux" />
 </div>
-
 
 <br/>
 <hr/>
