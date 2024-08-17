@@ -21,7 +21,7 @@ I’m a passionate Junior Full Stack Developer from Thailand, currently pursuing
 
  </div>
 <div align="center"> 
-    <h1>💬 connect with me:</h1>
+    <h1>💬 Social accounts:</h1>
     <a href="https://www.instagram.com/blz_niti/" target="_blank" >
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
