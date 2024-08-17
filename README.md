@@ -90,9 +90,6 @@ I’m a passionate Junior Full Stack Developer from Thailand, currently pursuing
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-  </a>
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
   </a>
@@ -126,6 +123,9 @@ I’m a passionate Junior Full Stack Developer from Thailand, currently pursuing
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
   </a>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
