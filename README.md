@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔬 I'm currently studying for my bachelor's degree in Computer Science at Mahasarakham University.
+ 🏫 I'm currently studying for my bachelor's degree in Computer Science at Mahasarakham University.
  
- 🌱 I’m currently learning **Docker, Golang**
+ 📚 I’m currently learning **Docker, Golang**
  </div>
  
  
