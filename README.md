@@ -33,9 +33,9 @@
 <br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,php,golang" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,php,golang" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=angular,bootstrap,express,tailwind,nodejs,firebase" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=vscode,github,git,docker,figma,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,docker,figma,mysql" />
 </div>
 
 
