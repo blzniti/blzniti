@@ -15,24 +15,29 @@
  🌱 I’m currently learning **Docker, Golang**
  </div>
  
-<h1 align="center">💬 connect with me:<h1>
  
 <div align="center"> 
-    <a href="https://www.instagram.com/blz_niti/" target="_blank">
+    <h1>💬 connect with me:</h1>
+    <a href="https://www.instagram.com/blz_niti/" target="_blank" >
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    &nbsp;&nbsp; <!-- ช่องว่าง 2px -->
+    <a href="https://web.facebook.com/profile.php?id=100003506846688&_rdc=1&_rdr" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
 </div>
 
- <hr/>
  
 <h2 align="center">⭐ Languages-Frameworks-Tools ⭐</h2>
 
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,vscode,github,figma,tailwind,git,golang,php" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,c,java,mysql,docker" /><br>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,php,golang" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=angular,bootstrap,express,tailwind,nodejs,firebase" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=vscode,github,git,docker,figma,mysql,html,css" />
 </div>
+
 
 <br/>
 <hr/>
