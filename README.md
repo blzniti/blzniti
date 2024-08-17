@@ -17,7 +17,7 @@
  📚 I’m currently learning **Docker, Golang, Flutter**
  </div>
  
- 
+ <br/><br/>
 <div align="center"> 
     <h1>💬 connect with me:</h1>
     <a href="https://www.instagram.com/blz_niti/" target="_blank" >
@@ -33,13 +33,117 @@
 <h2 align="center">⭐ Languages-Frameworks-Tools-OS ⭐</h2>
 
 <br/>
-
+<!--
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,php,dart,golang" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=angular,bootstrap,express,tailwind,nodejs,firebase,flutter" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=vscode,clion,eclipse,github,git,docker,kali,discord,figma,mysql,postman,obsidian,photoshop" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=windows,linux" />
 </div>
+-->
+
+<div align="center">
+  <a href="https://www.w3schools.com/c/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  </a>
+  <a href="https://www.java.com/en/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://www.w3schools.com/js/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
+  </a>
+  <a href="https://golang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=golang" alt="Go" />
+  </a>
+  <br/><br/>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+  </a>
+  <br/><br/>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  </a>
+  <a href="https://www.jetbrains.com/clion/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=clion" alt="CLion" />
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kali" alt="Kali" />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  </a>
+  <a href="https://obsidian.md/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" />
+  </a>
+  <br/><br/>
+  <a href="https://www.microsoft.com/windows/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  </a>
+</div>
+
 
 <br/>
 <hr/>
