@@ -7,7 +7,7 @@
 <h1>About Me: 👋 </h1>
 <div align="lift">
 
-I’m a passionate Junior Full Stack Developer from Thailand, currently pursuing a bachelor's degree in Computer Science at Mahasarakham University. I am deeply committed to growing my skills and knowledge in the tech industry.
+I’m a Junior Full Stack Developer from Thailand, currently pursuing a bachelor's degree in Computer Science at Mahasarakham University. I am committed to growing my skills and knowledge in the tech industry.
 
 
 <h2>🔧 Current Learning Focus:</h2>
