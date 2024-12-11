@@ -31,7 +31,7 @@ I’m a Junior Full Stack Developer from Thailand, currently pursuing a bachelor
     </a>
 </div>
  
-<h2 align="center">⭐ Languages-Frameworks-Tools-OS ⭐</h2>
+<h2 align="center">⭐ Languages-Tools-OS ⭐</h2>
 
 <br/>
 <!--
